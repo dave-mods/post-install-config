@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -68,4 +63,4 @@ Lastly we will set up Help Topics. On the Help Topics page click Add New Help To
 ![image](https://github.com/user-attachments/assets/398539d7-b294-4577-b285-6ef2458783d2)
 
 
-osTicket setup is complete. We have successfully set up agents along with their departments, roles, and permissions. As well as configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where we will create and work different tickets using multiple agents and users.
+osTicket setup is complete. We have successfully set up agents along with their departments, roles, and permissions. As well as configured SLAs (Service Level Agreements), help topics, and users. osTicket is now setup for the next project where we will create and work different tickets using multiple agents and users.
