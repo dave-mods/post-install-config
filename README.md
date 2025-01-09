@@ -53,3 +53,19 @@ Now to get John setup. On the Agents tab make a new agent and give the name John
 ![image](https://github.com/user-attachments/assets/0b380786-134a-49d7-90d1-f19db457863c)
 ![image](https://github.com/user-attachments/assets/2fa87ed9-e470-4919-b658-243df7724851)
 
+Now to make a User. Swap to the Agent panel go to Users and Add User. We will make the name Ken.
+![image](https://github.com/user-attachments/assets/9277b2fd-f56f-4f4d-9d56-a26c7447aa74)
+
+Next we have to setup SLAs (Service Level Agreement). Go back to the Admin Panel. Go to Manage tab and then SLA.
+![image](https://github.com/user-attachments/assets/e7687f95-0e11-4ed3-a284-84375d6be5f7)
+
+We will now add new SLAs. We will repeat this process for all 3. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours)
+![image](https://github.com/user-attachments/assets/ee2f8bce-7d02-47d6-89a4-d50f6d57679f)
+![image](https://github.com/user-attachments/assets/56796c8c-8a19-435a-b7d9-8a8913dddfa6)
+![image](https://github.com/user-attachments/assets/35b26bda-3e41-488b-8682-efb9e1c21a67)
+
+Lastly we will set up Help Topics. On the Help Topics page click Add New Help Topic. The topic will be "Business Critical Outage". We will also make Personal Computer Issues, Equipment Request, Password Reset and Other using all the same steps.
+![image](https://github.com/user-attachments/assets/398539d7-b294-4577-b285-6ef2458783d2)
+
+
+osTicket setup is complete. We have successfully set up agents along with their departments, roles, and permissions. As well as configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where we will create and work different tickets using multiple agents and users.
