@@ -1,5 +1,5 @@
 # post-install-config<p align="center">
-![image](https://github.com/user-attachments/assets/b857fd0b-d292-4ce2-924e-4db2a6835e86)
+![image](https://github.com/user-attachments/assets/2557ea79-7969-46df-bfd8-5b2d23280e9a)
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
